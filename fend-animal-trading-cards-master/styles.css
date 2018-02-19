@@ -1,0 +1,43 @@
+/* add your CSS here */
+ img {
+	width:300px;
+	padding: 0px 10px 0px 10px;
+}
+
+#all {
+	border: solid 1px;
+	width: 320px;
+	background: url("https://wallpapertag.com/wallpaper/full/4/e/2/267760-cool-background-images-1920x1200.jpg");
+ }
+ h2 { 
+	margin-left: 10px;
+}
+
+ span {
+	font-weight: bold;
+}
+ p.kursywa {
+	font-style: italic;
+}
+ .nowa {
+	border: solid 1px;
+	padding: 5px 10px;
+	margin: 4px 8px;
+	width: 250 px;
+ }
+ p {
+	 text-align:justify; 
+ }
+
+ ul {
+  list-style-type: none;
+}
+
+
+The CSS should apply these styles to match the design prototype:
+italicized text for the animal's interesting fact
+bolded labels for the animal's list items (e.g. 'Habitat')
+no dots for the animal's list items
+border around the animal's name, image, and information
+border around the animal's information
+spacing between the animal's name, image, and information (you will need to use the property padding)
